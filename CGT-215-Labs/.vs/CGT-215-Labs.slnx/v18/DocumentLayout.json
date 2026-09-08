@@ -3,24 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\jeric\\Documents\\GitHub\\CGT-215-Labs\\CGT-215-Labs\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3984B584-C337-4520-A995-AF99C51A7897}|CGT-215-Labs.vcxproj|C:\\Users\\jeric\\Documents\\GitHub\\CGT-215-Labs\\CGT-215-Labs\\CGT-215-Lab-02-jian1105.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3984B584-C337-4520-A995-AF99C51A7897}|CGT-215-Labs.vcxproj|solutionrelative:CGT-215-Lab-02-jian1105.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3984B584-C337-4520-A995-AF99C51A7897}|CGT-215-Labs.vcxproj|C:\\Users\\jeric\\Documents\\GitHub\\CGT-215-Labs\\CGT-215-Labs\\CGT-215-Lab-04-jian1105.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3984B584-C337-4520-A995-AF99C51A7897}|CGT-215-Labs.vcxproj|solutionrelative:CGT-215-Lab-04-jian1105.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3984B584-C337-4520-A995-AF99C51A7897}|CGT-215-Labs.vcxproj|C:\\Users\\jeric\\Documents\\GitHub\\CGT-215-Labs\\CGT-215-Labs\\CGT-215-Lab-03-jian1105.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3984B584-C337-4520-A995-AF99C51A7897}|CGT-215-Labs.vcxproj|solutionrelative:CGT-215-Lab-03-jian1105.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3984B584-C337-4520-A995-AF99C51A7897}|CGT-215-Labs.vcxproj|C:\\Users\\jeric\\Documents\\GitHub\\CGT-215-Labs\\CGT-215-Labs\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3984B584-C337-4520-A995-AF99C51A7897}|CGT-215-Labs.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3984B584-C337-4520-A995-AF99C51A7897}|CGT-215-Labs.vcxproj|C:\\Users\\jeric\\Documents\\GitHub\\CGT-215-Labs\\CGT-215-Labs\\Lab 2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3984B584-C337-4520-A995-AF99C51A7897}|CGT-215-Labs.vcxproj|solutionrelative:Lab 2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3984B584-C337-4520-A995-AF99C51A7897}|CGT-215-Labs.vcxproj|C:\\Users\\jeric\\Documents\\GitHub\\CGT-215-Labs\\CGT-215-Labs\\Lab 1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3984B584-C337-4520-A995-AF99C51A7897}|CGT-215-Labs.vcxproj|solutionrelative:Lab 1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{3984B584-C337-4520-A995-AF99C51A7897}|CGT-215-Labs.vcxproj|C:\\Users\\jeric\\Documents\\GitHub\\CGT-215-Labs\\CGT-215-Labs\\CGT-215-Lab-01-jian1105.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3984B584-C337-4520-A995-AF99C51A7897}|CGT-215-Labs.vcxproj|solutionrelative:CGT-215-Lab-01-jian1105.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,66 +27,41 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CGT-215-Lab-04-jian1105.cpp",
-              "DocumentMoniker": "C:\\Users\\jeric\\Documents\\GitHub\\CGT-215-Labs\\CGT-215-Labs\\CGT-215-Lab-04-jian1105.cpp",
-              "RelativeDocumentMoniker": "CGT-215-Lab-04-jian1105.cpp",
-              "ToolTip": "C:\\Users\\jeric\\Documents\\GitHub\\CGT-215-Labs\\CGT-215-Labs\\CGT-215-Lab-04-jian1105.cpp",
-              "RelativeToolTip": "CGT-215-Lab-04-jian1105.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Title": "CGT-215-Lab-02-jian1105.cpp",
+              "DocumentMoniker": "C:\\Users\\jeric\\Documents\\GitHub\\CGT-215-Labs\\CGT-215-Labs\\CGT-215-Lab-02-jian1105.cpp",
+              "RelativeDocumentMoniker": "CGT-215-Lab-02-jian1105.cpp",
+              "ToolTip": "C:\\Users\\jeric\\Documents\\GitHub\\CGT-215-Labs\\CGT-215-Labs\\CGT-215-Lab-02-jian1105.cpp",
+              "RelativeToolTip": "CGT-215-Lab-02-jian1105.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-09-08T15:32:08.123Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CGT-215-Lab-03-jian1105.cpp",
-              "DocumentMoniker": "C:\\Users\\jeric\\Documents\\GitHub\\CGT-215-Labs\\CGT-215-Labs\\CGT-215-Lab-03-jian1105.cpp",
-              "RelativeDocumentMoniker": "CGT-215-Lab-03-jian1105.cpp",
-              "ToolTip": "C:\\Users\\jeric\\Documents\\GitHub\\CGT-215-Labs\\CGT-215-Labs\\CGT-215-Lab-03-jian1105.cpp",
-              "RelativeToolTip": "CGT-215-Lab-03-jian1105.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-09-08T15:30:43.664Z",
+              "WhenOpened": "2026-09-08T17:23:02.559Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Main.cpp",
-              "DocumentMoniker": "C:\\Users\\jeric\\Documents\\GitHub\\CGT-215-Labs\\CGT-215-Labs\\Main.cpp",
-              "RelativeDocumentMoniker": "Main.cpp",
-              "ToolTip": "C:\\Users\\jeric\\Documents\\GitHub\\CGT-215-Labs\\CGT-215-Labs\\Main.cpp",
-              "RelativeToolTip": "Main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Title": "CGT-215-Lab-01-jian1105.cpp",
+              "DocumentMoniker": "C:\\Users\\jeric\\Documents\\GitHub\\CGT-215-Labs\\CGT-215-Labs\\CGT-215-Lab-01-jian1105.cpp",
+              "RelativeDocumentMoniker": "CGT-215-Lab-01-jian1105.cpp",
+              "ToolTip": "C:\\Users\\jeric\\Documents\\GitHub\\CGT-215-Labs\\CGT-215-Labs\\CGT-215-Lab-01-jian1105.cpp",
+              "RelativeToolTip": "CGT-215-Lab-01-jian1105.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-09-01T16:51:19.647Z",
+              "WhenOpened": "2026-09-08T17:09:20.158Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Lab 2.cpp",
-              "DocumentMoniker": "C:\\Users\\jeric\\Documents\\GitHub\\CGT-215-Labs\\CGT-215-Labs\\Lab 2.cpp",
-              "RelativeDocumentMoniker": "Lab 2.cpp",
-              "ToolTip": "C:\\Users\\jeric\\Documents\\GitHub\\CGT-215-Labs\\CGT-215-Labs\\Lab 2.cpp",
-              "RelativeToolTip": "Lab 2.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "CGT-215-Lab-04-jian1105.cpp",
+              "DocumentMoniker": "C:\\Users\\jeric\\Documents\\GitHub\\CGT-215-Labs\\CGT-215-Labs\\CGT-215-Lab-04-jian1105.cpp",
+              "RelativeDocumentMoniker": "CGT-215-Lab-04-jian1105.cpp",
+              "ToolTip": "C:\\Users\\jeric\\Documents\\GitHub\\CGT-215-Labs\\CGT-215-Labs\\CGT-215-Lab-04-jian1105.cpp",
+              "RelativeToolTip": "CGT-215-Lab-04-jian1105.cpp",
+              "ViewState": "AgIAACoAAAAAAAAAAAAqwDsAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-09-01T16:48:33.246Z",
+              "WhenOpened": "2026-09-08T15:32:08.123Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Lab 1.cpp",
-              "DocumentMoniker": "C:\\Users\\jeric\\Documents\\GitHub\\CGT-215-Labs\\CGT-215-Labs\\Lab 1.cpp",
-              "RelativeDocumentMoniker": "Lab 1.cpp",
-              "ToolTip": "C:\\Users\\jeric\\Documents\\GitHub\\CGT-215-Labs\\CGT-215-Labs\\Lab 1.cpp",
-              "RelativeToolTip": "Lab 1.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-09-01T14:52:46.189Z"
             }
           ]
         }

@@ -1,8 +1,2 @@
-﻿  CGT-215-Lab-03-jian1105.cpp
-C:\Users\jeric\Documents\GitHub\CGT-215-Labs\CGT-215-Labs\CGT-215-Lab-03-jian1105.cpp(33,17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\jeric\Documents\GitHub\CGT-215-Labs\CGT-215-Labs\CGT-215-Lab-03-jian1105.cpp(35,17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\jeric\Documents\GitHub\CGT-215-Labs\CGT-215-Labs\CGT-215-Lab-03-jian1105.cpp(37,17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\jeric\Documents\GitHub\CGT-215-Labs\CGT-215-Labs\CGT-215-Lab-03-jian1105.cpp(39,17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-  Main.cpp
-  Generating Code...
+﻿  CGT-215-Lab-04-jian1105.cpp
   CGT-215-Labs.vcxproj -> C:\Users\jeric\Documents\GitHub\CGT-215-Labs\CGT-215-Labs\x64\Debug\CGT-215-Labs.exe
