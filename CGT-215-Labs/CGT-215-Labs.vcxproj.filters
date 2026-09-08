@@ -21,5 +21,8 @@
     <ClCompile Include="CGT-215-Lab-01-jian1105.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="CGT-215-Lab-02-jian1105.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

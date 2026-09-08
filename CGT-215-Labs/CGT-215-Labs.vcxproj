@@ -140,6 +140,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="CGT-215-Lab-01-jian1105.cpp" />
+    <ClCompile Include="CGT-215-Lab-02-jian1105.cpp" />
+    <ClCompile Include="CGT-215-Lab-03-jian1105.cpp" />
     <ClCompile Include="CGT-215-Lab-04-jian1105.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
