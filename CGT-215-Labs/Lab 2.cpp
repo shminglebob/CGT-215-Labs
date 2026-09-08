@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main() {
+int lab2() {
 	int a, b;
 	cout << "Input your numbers:\n";
 	cin >> a;
